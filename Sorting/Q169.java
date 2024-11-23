@@ -1,3 +1,5 @@
+package Sorting;
+
 import java.util.*;
 public class Q169 {
     public static int majorityElement(int[] nums) {

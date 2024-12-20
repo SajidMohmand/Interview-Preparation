@@ -4,7 +4,7 @@ import java.util.ArrayDeque;
 import java.util.Deque;
 import java.util.Queue;
 
-class MyStack() {
+class MyStack {
 
     Deque<Integer> q = new ArrayDeque<>();
     public void push(int x) {
